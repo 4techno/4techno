@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 240" width="100%" height="240">
+  <defs>
+    <style>
+      .card-bg { fill: #FBF9F5; stroke: #E8E4D9; stroke-width: 1px; rx: 2px; }
+      .col-bg { fill: #F6F3EC; stroke: #E4DFC8; stroke-width: 1px; rx: 2px; }
+      .section-label { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-size: 11px; font-weight: 600; fill: #8C4A2F; text-transform: uppercase; letter-spacing: 0.5px; }
+      .col-title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-size: 14px; font-weight: 600; fill: #1C1917; }
+      .col-body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-size: 12px; font-weight: 400; fill: #57534E; line-height: 18px; }
+      .connector { stroke: #8C4A2F; stroke-width: 1.5px; stroke-dasharray: 3 3; }
+      .num { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-size: 11px; font-weight: 600; fill: #8C4A2F; }
+    </style>
+  </defs>
+
+  <rect width="880" height="240" class="card-bg" />
+
+  <!-- Section Title -->
+  <text x="32" y="36" class="section-label">System Architecture: From Embedded Hardware to Web Platform</text>
+
+  <!-- Column 1: Hardware & Instrumentation -->
+  <rect x="32" y="52" width="248" height="156" class="col-bg" />
+  <text x="48" y="76" class="num">01</text>
+  <text x="48" y="96" class="col-title">Hardware &amp; Acquisition</text>
+  <text x="48" y="122" class="col-body">Dual-axis antenna positioner</text>
+  <text x="48" y="142" class="col-body">ESP32 telemetry subsystem</text>
+  <text x="48" y="162" class="col-body">Multi-axis stepper actuation</text>
+  <text x="48" y="182" class="col-body">Analog sensor signal capture</text>
+
+  <!-- Connector 1 to 2 -->
+  <line x1="280" y1="130" x2="316" y2="130" class="connector" />
+
+  <!-- Column 2: Control & Middleware -->
+  <rect x="316" y="52" width="248" height="156" class="col-bg" />
+  <text x="332" y="76" class="num">02</text>
+  <text x="332" y="96" class="col-title">Control &amp; Middleware</text>
+  <text x="332" y="122" class="col-body">Serial and UART data pipelines</text>
+  <text x="332" y="142" class="col-body">Inverse kinematics algorithms</text>
+  <text x="332" y="162" class="col-body">Python automated data logging</text>
+  <text x="332" y="182" class="col-body">REST and WebSocket endpoints</text>
+
+  <!-- Connector 2 to 3 -->
+  <line x1="564" y1="130" x2="600" y2="130" class="connector" />
+
+  <!-- Column 3: Platform & Interface -->
+  <rect x="600" y="52" width="248" height="156" class="col-bg" />
+  <text x="616" y="76" class="num">03</text>
+  <text x="616" y="96" class="col-title">Platform &amp; Interface</text>
+  <text x="616" y="122" class="col-body">Next.js 16 server components</text>
+  <text x="616" y="142" class="col-body">Static case study routes</text>
+  <text x="616" y="162" class="col-body">Customer enquiry authentication</text>
+  <text x="616" y="182" class="col-body">Engineering portfolio delivery</text>
+</svg>

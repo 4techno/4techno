@@ -1,157 +1,157 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Mohammed%20Vashir&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Open%20Source%20Lover&descAlignY=58&descSize=17&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=galaxy&color=0:0d0221,30:1a0533,60:0d1b2a,100:000814&height=280&section=header&text=Mohammed%20Vashir&fontSize=60&fontColor=e8d5ff&animation=twinkling&fontAlignY=40&desc=⚡%20Full%20Stack%20Developer%20%20%7C%20%20🤖%20AI%20Engineer%20%20%7C%20%20🌌%20Tech%20Visionary&descAlignY=60&descSize=18&descColor=9d79bc&stroke=7b2fff&strokeWidth=2"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=700&height=50&lines=Hey+there!+I'm+Mohammed+Vashir+%F0%9F%91%8B;Building+the+future+with+AI+%F0%9F%A4%96;Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Open+Source+Contributor+%F0%9F%8C%9F;Always+learning%2C+always+growing+%E2%9A%A1)](https://git.io/typing-svg)
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=750&height=45&lines=🌌+Exploring+the+digital+galaxy+since+day+one...;🚀+Turning+coffee+into+code+%26+ideas+into+reality;🤖+Building+intelligent+systems+with+AI+%26+ML;⚡+Full+Stack+Developer+from+India+🇮🇳;🌟+Open+Source+Contributor+%7C+Tech+Enthusiast)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="https://github.com/4techno">
-  <img src="https://komarev.com/ghpvc/?username=4techno&label=Profile+Views&color=58a6ff&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
-</a>
-<a href="https://github.com/4techno?tab=followers">
-  <img src="https://img.shields.io/github/followers/4techno?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117" alt="Followers"/>
-</a>
-<a href="https://github.com/4techno?tab=stars">
-  <img src="https://img.shields.io/github/stars/4techno?label=Stars&style=for-the-badge&color=f0a500&labelColor=0d1117" alt="Stars"/>
-</a>
+<!-- Badges row -->
+<a href="https://github.com/4techno"><img src="https://komarev.com/ghpvc/?username=4techno&label=✨+Visitors&color=7b2fff&style=for-the-badge" /></a>&nbsp;
+<a href="https://github.com/4techno?tab=followers"><img src="https://img.shields.io/github/followers/4techno?label=🌟+Followers&style=for-the-badge&color=a78bfa&labelColor=0d0221" /></a>&nbsp;
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Full%20Stack-a78bfa?style=for-the-badge&labelColor=0d0221&logo=rocket&logoColor=a78bfa" />&nbsp;
+<img src="https://img.shields.io/badge/Lives%20in-India%20🇮🇳-7b2fff?style=for-the-badge&labelColor=0d0221" />
 
 </div>
 
-<br/>
+---
 
-## 🧑‍💻 About Me
+<img align="right" width="340" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="galaxy coding gif"/>
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
+## 🌌 About Me
 
-```python
-class MohammedVashir:
-    name        = "Mohammed Vashir"
-    username    = "4techno"
-    location    = "India 🇮🇳"
-    
-    skills = {
-        "languages" : ["Python", "JavaScript", "TypeScript"],
-        "frontend"  : ["React", "Next.js", "TailwindCSS"],
-        "backend"   : ["Node.js", "Flask", "FastAPI"],
-        "ai_ml"     : ["TensorFlow", "OpenAI", "Gemini AI"],
-        "devops"    : ["Docker", "Git", "GitHub Actions"],
-    }
-    
-    currently   = "Building AI-powered apps 🤖"
-    learning    = "Machine Learning & LLMs 🧠"
-    open_to     = "Collaborations & cool projects 🚀"
-    
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing 🔥")
+```yaml
+🧑‍🚀 Identity:
+  name:       Mohammed Vashir
+  alias:      4techno
+  location:   India 🇮🇳
+  timezone:   IST (UTC +5:30)
 
-me = MohammedVashir()
-me.say_hi()
+🔭 Current Mission:
+  working_on: AI-Powered Web Applications
+  learning:   LLMs · Agentic AI · Deep Learning
+  exploring:  Google Gemini · Claude · RAG Systems
+
+⚡ Tech Philosophy:
+  "Code is the language of the universe.
+   I speak it fluently."
+
+🎯 Open To:
+  - Exciting collaborations
+  - Open source contributions
+  - Freelance projects
+  - Tech discussions
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛸 Tech Arsenal
 
 <div align="center">
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,bash&theme=dark" />
+<table>
+<tr>
+<td align="center" width="50%">
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma&theme=dark" />
+### 🌐 Languages
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,bash&theme=dark&perline=6" />
 
-### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,mongodb,mysql,redis&theme=dark" />
+### ⚛️ Frontend Universe
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma,threejs&theme=dark&perline=6" />
 
-### 🤖 AI & Cloud
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,gcp,aws,vercel&theme=dark" />
+</td>
+<td align="center" width="50%">
 
-### 🔧 Dev Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,postman&theme=dark" />
+### 🔧 Backend Galaxy  
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,mongodb,postgres,redis&theme=dark&perline=6" />
+
+### 🤖 AI / Cloud Cosmos
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,gcp,aws,linux&theme=dark&perline=6" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=4techno&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Mohammed+Vashir's+Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=4techno&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500" />
-</div>
-
-<div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4techno&layout=donut&theme=github_dark&hide_border=true&langs_count=8&custom_title=Most+Used+Languages"/>
-  <img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=4techno&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff"/>
-</div>
-
----
-
-## 🏆 Achievements & Trophies
+## 📊 Galaxy Stats
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=4techno&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4techno/4techno/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4techno/4techno/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/4techno/4techno/output/github-snake.svg"/>
-</picture>
-
-</div>
-
----
-
-## 📈 Contribution Heatmap
-
-<div align="center">
-
-[![4techno's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4techno&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedvashir75@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4techno)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-vashir)
-[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/4techno)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=4techno&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d0221&title_color=a78bfa&icon_color=7b2fff&text_color=e8d5ff&border_radius=10&custom_title=⚡+Mohammed+Vashir's+Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=4techno&theme=tokyonight&hide_border=true&background=0d0221&ring=7b2fff&fire=a78bfa&currStreakLabel=e8d5ff&sideLabels=a78bfa&dates=9d79bc&border_radius=10" />
 
 <br/>
 
-**💬 Open to work, collaborations & interesting conversations!**
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4techno&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=e8d5ff&border_radius=10&langs_count=8&custom_title=🌌+Language+Galaxy"/>
+&nbsp;&nbsp;
+<img width="57%" src="https://github-readme-activity-graph.vercel.app/graph?username=4techno&theme=tokyo-night&hide_border=true&bg_color=0d0221&color=a78bfa&line=7b2fff&point=e8d5ff&area=true&area_color=7b2fff"/>
 
 </div>
 
 ---
 
+## 🏆 Achievement Constellation
+
 <div align="center">
 
-### 💡 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=4techno&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
 
 </div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer"/>
+## 🐍 Galactic Contribution Nebula
 
 <div align="center">
-<sub>⭐ <b>Star some repos if you like my work!</b> ⭐</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4techno/4techno/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4techno/4techno/output/github-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/4techno/4techno/output/github-snake-dark.svg"/>
+</picture>
+</div>
+
+---
+
+## 🌠 Activity Across the Cosmos
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=4techno&bg_color=0d0221&color=a78bfa&line=7b2fff&point=e8d5ff&area=true&area_color=1a0533&hide_border=true&custom_title=🌌+Mohammed+Vashir's+Contribution+Galaxy&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🌌 Connect Across the Universe
+
+<div align="center">
+
+<a href="mailto:mohammedvashir75@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0221"/>
+</a>&nbsp;
+<a href="https://github.com/4techno">
+  <img src="https://img.shields.io/badge/GitHub-7b2fff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0221"/>
+</a>&nbsp;
+<a href="https://linkedin.com/in/mohammed-vashir">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221"/>
+</a>&nbsp;
+<a href="https://twitter.com/4techno">
+  <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d0221"/>
+</a>
+
+<br/><br/>
+
+### 💬 Wisdom from the Cosmos
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_color=7b2fff&bg_color=0d0221&quote_color=e8d5ff&author_color=a78bfa)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=galaxy&color=0:000814,50:0d1b2a,100:1a0533&height=150&section=footer&text=⭐+Star+my+repos+if+you+like+my+work!&fontSize=22&fontColor=a78bfa&animation=twinkling&fontAlignY=55"/>
+
 </div>

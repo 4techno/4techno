@@ -17,6 +17,9 @@
 <a href="https://github.com/4techno?tab=followers">
   <img src="https://img.shields.io/github/followers/4techno?style=flat-square&color=3b82f6&label=Followers" alt="Followers"/>
 </a>
+<a href="https://4tech-9cy.pages.dev">
+  <img src="https://img.shields.io/badge/Live_Portfolio-4tech--9cy.pages.dev-f97316?style=flat-square&logo=cloudflarepages&logoColor=white" alt="Live Portfolio"/>
+</a>
 <img src="https://img.shields.io/badge/Status-Shipping%20Code-10b981?style=flat-square" alt="Status"/>
 <img src="https://img.shields.io/badge/Focus-Robotics%20%26%20AI-8b5cf6?style=flat-square" alt="Focus"/>
 
@@ -40,7 +43,7 @@
   Editor:       VS Code / Neovim
   Primary_Lang: Python · C++ · TypeScript
   Disciplines:  Embedded Systems · Robotics Kinematics · Full-Stack Web
-  Flagship:     4tech Engineering Platform (Robotics, RF & Customer Portal)
+  Flagship:     4tech Engineering Platform (https://4tech-9cy.pages.dev)
   Hardware_Bus: UART · SPI · I2C · CAN · Serial USB
   Active_Work:  Automated antenna measurement & autonomous AI gateways
   Uptime:       Continuous learning & building
@@ -186,16 +189,20 @@ _____|_____|_____
 
 <div align="center">
 
-<a href="mailto:mohammedvashir75@gmail.com">
-  <img src="https://img.shields.io/badge/Email-mohammedvashir75%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://4tech-9cy.pages.dev">
+  <img src="https://img.shields.io/badge/Live_Portfolio-4tech--9cy.pages.dev-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/4techno">
   <img src="https://img.shields.io/badge/GitHub-4techno-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/mohammed-vashir">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/mohammed-vashir-793b89378/">
+  <img src="https://img.shields.io/badge/LinkedIn-Mohammed_Vashir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:mohammedvashir75@gmail.com">
+  <img src="https://img.shields.io/badge/Email-mohammedvashir75%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>

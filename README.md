@@ -79,15 +79,22 @@
 <a href="https://github.com/4techno/4tech-website">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=4techno&repo=4tech-website&theme=tokyonight&hide_border=true&border_radius=6"/>
 </a>
+<a href="https://github.com/4techno/antenna-pattern-analyzer">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=4techno&repo=antenna-pattern-analyzer&theme=tokyonight&hide_border=true&border_radius=6"/>
+</a>
+
+<a href="https://github.com/4techno/robotic-arm-kinematics">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=4techno&repo=robotic-arm-kinematics&theme=tokyonight&hide_border=true&border_radius=6"/>
+</a>
+<a href="https://github.com/4techno/embedded-telemetry-protocol">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=4techno&repo=embedded-telemetry-protocol&theme=tokyonight&hide_border=true&border_radius=6"/>
+</a>
+
 <a href="https://github.com/4techno/ai-chat-assistant">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=4techno&repo=ai-chat-assistant&theme=tokyonight&hide_border=true&border_radius=6"/>
 </a>
-
 <a href="https://github.com/4techno/python-automation-toolkit">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=4techno&repo=python-automation-toolkit&theme=tokyonight&hide_border=true&border_radius=6"/>
-</a>
-<a href="https://github.com/4techno/web3-dashboard">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=4techno&repo=web3-dashboard&theme=tokyonight&hide_border=true&border_radius=6"/>
 </a>
 
 </div>

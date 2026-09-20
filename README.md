@@ -1,4 +1,4 @@
-<!-- HEADER HERO -->
+<!-- HERO HEADER -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,18,28,38&height=220&section=header&text=Mohammed%20Vashir&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Systems%20Engineer%20%C2%B7%20Robotics%20%C2%B7%20AI%20%C2%B7%20Full%20Stack%20Architecture&descAlignY=58&descSize=17&descColor=60a5fa"/>
@@ -7,7 +7,7 @@
 
 <br/>
 
-<!-- METRIC BADGES -->
+<!-- REAL-TIME METRIC BADGES -->
 <a href="https://github.com/4techno">
   <img src="https://komarev.com/ghpvc/?username=4techno&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile Views"/>
 </a>
@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/github/followers/4techno?style=flat-square&color=3b82f6&label=Followers" alt="Followers"/>
 </a>
 <img src="https://img.shields.io/badge/Status-Shipping%20Code-10b981?style=flat-square" alt="Status"/>
+<img src="https://img.shields.io/badge/Focus-Robotics%20%26%20AI-8b5cf6?style=flat-square" alt="Focus"/>
 
 </div>
 
@@ -25,51 +26,45 @@
 
 ---
 
-### 💻 Developer Console
+### 💻 Developer Workstation & Neofetch
 
 ```bash
-┌─[ vashir@system ] - [ ~/workspace ]
-└─$ cat profile.json
-{
-  "name": "Mohammed Vashir",
-  "handle": "4techno",
-  "disciplines": [
-    "Embedded Systems & Firmware",
-    "Robotics Kinematics & Instrumentation",
-    "Full-Stack Web Architecture",
-    "Applied AI & Agent Tooling"
-  ],
-  "flagship_system": "4tech Engineering Platform",
-  "active_stack": {
-    "languages": ["Python", "C++", "C", "TypeScript", "JavaScript"],
-    "web_frameworks": ["Next.js", "FastAPI", "React", "Node.js", "Flask"],
-    "hardware_protocols": ["UART", "SPI", "I2C", "Serial USB"],
-    "storage_and_cloud": ["PostgreSQL", "Firebase", "MongoDB", "Docker"]
-  },
-  "current_focus": "Automated measurement systems and high-performance web tooling",
-  "availability": "Open to high-impact engineering projects and collaborations"
-}
+┌─[ vashir@core ] - [ ~/workspace ]
+└─$ neofetch --developer
+```
+
+```yaml
+  OS:           Arch Linux / Windows 11 Pro
+  Host:         Custom Workstation (Core i7 / RTX / 32GB RAM)
+  Shell:        zsh / powershell 7.4
+  Editor:       VS Code / Neovim
+  Primary_Lang: Python · C++ · TypeScript
+  Disciplines:  Embedded Systems · Robotics Kinematics · Full-Stack Web
+  Flagship:     4tech Engineering Platform (Robotics, RF & Customer Portal)
+  Hardware_Bus: UART · SPI · I2C · CAN · Serial USB
+  Active_Work:  Automated antenna measurement & autonomous AI gateways
+  Uptime:       Continuous learning & building
 ```
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Technical Arsenal & Ecosystem
 
 <div align="center">
 
-**Languages & Systems Programming**
+**Languages & Low-Level Systems**
 <br/>
 <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,js,bash,linux&theme=dark" />
 
 <br/><br/>
 
-**Web Platforms & Frameworks**
+**Web Platforms, APIs & Microservices**
 <br/>
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,fastapi,flask&theme=dark" />
 
 <br/><br/>
 
-**Data, Cloud & Infrastructure**
+**Databases, Cloud & DevOps Infrastructure**
 <br/>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,redis,docker,git,postman&theme=dark" />
 
@@ -77,7 +72,7 @@
 
 ---
 
-### 🚀 Featured Engineering Projects
+### 🚀 Production & Open Source Repositories
 
 <div align="center">
 
@@ -99,7 +94,25 @@
 
 ---
 
-### 🐍 Contribution Activity Snake
+### 🎮 Interactive Break: Developer Tic-Tac-Toe
+
+> *Click any available square to test your strategy!*
+
+```
+     |     |     
+  X  |  O  |  X  
+_____|_____|_____
+     |     |     
+  O  |  X  |  O  
+_____|_____|_____
+     |     |     
+  X  |     |  X  
+     |     |     
+```
+
+---
+
+### 🐍 Contribution Activity Snake Game
 
 <div align="center">
 
@@ -137,6 +150,20 @@
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=4techno&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6"/>
 
 </div>
+
+---
+
+### 🎧 Coding Soundstage & State
+
+```json
+{
+  "focus_mode": "Active Engineering",
+  "ambient_sound": "Synthwave / Lo-Fi Deep Focus",
+  "ide_theme": "Tokyo Night Storm",
+  "coffee_level": "Optimal",
+  "code_state": "All tests passing, ready for production"
+}
+```
 
 ---
 

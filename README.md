@@ -27,6 +27,13 @@
 
 <br/>
 
+<!-- CYBERNETIC ASCII HOLOGRAPHIC AVATAR -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/4techno/4techno/main/assets/vashir-ascii-motion.gif" width="100%" alt="Mohammed Vashir - Cybernetic ASCII Motion Hologram" />
+</div>
+
+<br/>
+
 ---
 
 ### 💻 Developer Workstation & Neofetch
@@ -95,6 +102,9 @@
 
 <a href="https://github.com/4techno/ai-chat-assistant">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=4techno&repo=ai-chat-assistant&theme=tokyonight&hide_border=true&border_radius=6"/>
+</a>
+<a href="https://github.com/4techno/anime-3d-experience">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=4techno&repo=anime-3d-experience&theme=tokyonight&hide_border=true&border_radius=6"/>
 </a>
 <a href="https://github.com/4techno/python-automation-toolkit">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=4techno&repo=python-automation-toolkit&theme=tokyonight&hide_border=true&border_radius=6"/>

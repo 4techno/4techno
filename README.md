@@ -106,6 +106,9 @@
 <a href="https://github.com/4techno/anime-3d-experience">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=4techno&repo=anime-3d-experience&theme=tokyonight&hide_border=true&border_radius=6"/>
 </a>
+<a href="https://github.com/4techno/4tech-nextgen">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=4techno&repo=4tech-nextgen&theme=tokyonight&hide_border=true&border_radius=6"/>
+</a>
 <a href="https://github.com/4techno/python-automation-toolkit">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=4techno&repo=python-automation-toolkit&theme=tokyonight&hide_border=true&border_radius=6"/>
 </a>
